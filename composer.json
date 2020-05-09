@@ -1,0 +1,5 @@
+{
+    "require": {
+        "systemico/jmail": "^1.2"
+    }
+}
